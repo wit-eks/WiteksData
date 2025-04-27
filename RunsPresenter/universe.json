@@ -1,0 +1,305 @@
+{
+    "timeStamp":"2025-04-27T12:00:00Z",
+    "version": 1.0,
+    "runs":[
+        {"id": "PREH-2014", "shortName":"PREH", "date":"2014-04-26", 
+         "distance":42.05, "up":1925,"down":1925, "isMountain":true,
+         "name":"Wielka Prehyba", "formattedName":"Wielka,Prehyba", 
+         "results":"https://pieninyultratrail.pl/wp-content/uploads/2014/11/2014-Wyniki-WielkaPrehyba.pdf",
+         "checkPoints":[
+            {"no": 1, "name": "Schronisko na Przechybie"},
+            {"no": 2, "name": "Przełęcz Gromadzka"},
+            {"no": 3, "name": "Schronisko pod Durbaszką"}
+         ]},
+
+        {"id": "PREH-2015", "shortName":"PREH", "date":"2015-04-25", 
+         "distance":42.0, "itra":2, "up":2045,"down":2045, "isMountain":true,
+         "name":"Wielka Prehyba", "formattedName":"Wielka,Prehyba", 
+         "results":"https://pieninyultratrail.pl/wp-content/uploads/2015/05/WP_6_05_2015.pdf",
+         "checkPoints":[
+            {"no": 1, "name": "Schronisko na Przechybie"},
+            {"no": 2, "name": "Przełęcz Gromadzka"},
+            {"no": 3, "name": "Schronisko pod Durbaszką"}
+         ]},
+
+        {"id": "DURB-2015", "shortName":"DURB", "date":"2015-04-25", 
+         "distance":21.8, "up":820,"down":970, "isMountain":true,
+         "name":"Chyża Durbaszka", "formattedName":"Chyża,Durbaszka", 
+         "results":"https://pieninyultratrail.pl/wp-content/uploads/2015/05/CHD_6_05_2015.pdf"},
+
+        {"id": "PREH-2021", "shortName":"PREH", "date":"2021-06-18", 
+         "distance":43.0, "itra":2, "mountainLevel": 5, "up":1950,"down":1950, "isMountain":true,
+         "name":"Wielka Prehyba", "formattedName":"Wielka,Prehyba", 
+         "results":"https://pieninyultratrail.pl/wp-content/uploads/2023/11/BWS2021-Wyniki-Wielka-Prehyba.pdf",
+         "checkPoints":[
+            {"no": 1, "name": "Schronisko na Przechybie", "distance": 14.5},
+            {"no": 2, "name": "Bacówka na Obidzy", "distance": 24.2},
+            {"no": 3, "name": "Schronisko pod Durbaszką", "distance": 35.5}
+         ]},
+        
+        {"id": "PREH-2025", "shortName":"PREH", "date":"2025-04-26", 
+         "distance":43.7, "itra":2, "mountainLevel": 5, "up":2060,"down":2060, "isMountain":true,
+         "name":"Wielka Prehyba", "formattedName":"Wielka,Prehyba", 
+         "results":"",
+         "checkPoints":[
+            {"no": 1, "name": "Schronisko na Przechybie", "distance": 14.5},
+            {"no": 2, "name": "Bacówka na Obidzy", "distance": 24.2},
+            {"no": 3, "name": "Schronisko pod Durbaszką", "distance": 35.5}
+         ]},
+        
+         {"id": "SICH-2024", "shortName":"SICH", "date":"2024-06-09", 
+          "distance":15.0, "up":600,"down":600, "isMountain":true,
+          "name":"Sichlańska Piętnastka", "formattedName":"Sichlańska,Piętnastka", 
+          "results":"https://sport-timing.pl/pomiar-czasu/content/uploads/2024/06/Wyniki-open-15km.pdf"},
+
+                  
+         {"id": "SKYM-2023", "shortName":"SKYM", "date":"2023-07-22", 
+         "distance":45.4, "up":3300,"down":3300, "isMountain":true,
+         "name":"Tatra SkyMarathon", "formattedName": "Tatra,SkyMarathon",
+         "results":"https://www.bgtimesport.pl/_files/public/wyniki/BGTS621wyn230723t211645.pdf",
+         "checkPoints":[
+            {"no": 1, "name": "", "distance": 10},
+            {"no": 2, "name": "", "distance": 27},
+            {"no": 3, "name": "", "distance": 39}
+         ]},
+                           
+         {"id": "MARD-2023", "shortName":"MARD", "date":"2023-07-01", 
+         "distance":32, "itra":2, "mountainLevel":7, "up":2218,"down":2218, "isMountain":true,
+         "name":"XV Wysokogórski Biegu im. dh Franciszka Marduły", "formattedName": "Bieg,Marduły",
+         "results":"https://my.raceresult.com/234883/"},
+
+                                    
+         {"id": "MARD-2022", "shortName":"MARD", "date":"2022-07-02", 
+         "distance":32, "itra":2, "mountainLevel":7, "up":2218,"down":2218, "isMountain":true,
+         "name":"XIV Wysokogórski Biegu im. dh Franciszka Marduły", "formattedName": "Bieg,Marduły",
+         "results":"https://my.raceresult.com/191959/#0_F61DD4"},
+
+         {"id": "SICH-2023", "shortName":"SICH", "date":"2023-06-04", 
+         "distance":15.0, "up":600,"down":600, "isMountain":true,
+         "name":"Sichlańska Piętnastka", "formattedName": "Sichlańska,Piętnastka",
+         "results":"https://sport-timing.pl/pomiar-czasu/content/uploads/2023/06/Wyniki-Open-15km_5km_NW.pdf"},
+
+         {"id": "SICH-2022", "shortName":"SICH", "date":"2022-06-05", 
+         "distance":15.0, "up":600,"down":600, "isMountain":true,
+         "name":"Sichlańska Piętnastka", "formattedName": "Sichlańska,Piętnastka",
+         "results":"https://ratemytrail.com/results/sichlanska-pietnastka-s-15-2022-bieg-glowny"},
+
+         {"id": "GWLU-2023", "shortName":"GWLU", "date":"2023-02-25", 
+         "distance":24.6, "itra": 1, "up":1030,"down":1030, "mountainLevel": 4, "isMountain":true,
+         "name":"GUT Winter - Którędy na Lubań", "formattedName": "GUT Winter,Lubań",
+         "results":"https://wyniki.b4sport.pl/24km-ktoredy-na-luban-gut-winter/e4375.html?times=0&embeded=0&auto=0&location_nr=-1"},
+
+        {"id": "ZZBJ-2023", "shortName":"ZZBJ", "date":"2023-02-05", 
+         "distance":26, "itra":1, "mountainLevel":6, "up":1600 ,"down":1600, "isMountain":true,
+         "name":"Zimowy Bieg Zbója", "formattedName": "Zimowy,Zbój",
+         "results":"https://wyniki.b4sport.pl/24km-ktoredy-na-luban-gut-winter/e4375.html?times=0&embeded=0&auto=0&location_nr=-1"},
+
+
+         {"id": "GURM-2022", "shortName":"GURM", "date":"2022-05-07", 
+         "distance":27, "itra":1, "mountainLevel":5, "up":1362 ,"down":1362, "isMountain":true,
+         "name":"Garmin Ultra Race Myślenice", "formattedName": "GUR,Myślenice",
+         "results":"https://www.startlist.pl/zawody/1033/wyniki/2022-garmin-ultra-race-myslenice-2022-bieg-na-27-km"},
+
+         {"id": "GWZW-2022", "shortName":"GWZW", "date":"2022-02-26", 
+         "distance":34, "itra":2, "mountainLevel":4, "up":1470 ,"down":1470, "isMountain":true,
+         "name":"GUT Winter- Zimny Wdżar", "formattedName": "GUT,Zimny Wdżar",
+         "results":"https://wyniki.b4sport.pl/34km-zimny-wdzar-gut-winter/e3555.html"},
+
+
+
+
+
+
+
+
+
+
+
+         {"id": "PWAW-2025", "shortName":"PWAW", "date":"2025-03-30", 
+         "distance":21.0975,
+         "name":"19. Półmaraton Warszawski", "formattedName": "Półmaraton,Warszawski",
+         "results":"https://live.sts-timing.pl/pw2025/WynikiP%C3%B3%C5%82maraton.pdf"},         
+
+        {"id": "PZYW-2013", "shortName":"PŻYW", "date":"2013-03-17", 
+         "distance":21.0975, "up":465, "down":465,
+         "name":"XIV Półmaraton dookoła Jeziora Żywieckiego", "formattedName": "Półmaraton,Żywiecki",
+         "results":"https://www.halfmarathon.zywiec.pl/uploaded/wyniki/polmaraton_2013_rok.pdf"},
+
+         {"id": "PZYW-2022", "shortName":"PŻYW", "date":"2022-04-03", 
+         "distance":21.0975, "up":465, "down":465,
+         "name":"22. Półmaraton dookoła Jeziora Żywieckiego", "formattedName": "Półmaraton,Żywiecki",
+         "results":"https://wyniki.datasport.pl/results3543/"},
+
+
+         {"id": "PWAW-2013", "shortName":"PWAW", "date":"2013-03-24", 
+         "distance":21.0975,
+         "name":"8. Półmaraton Warszawski", "formattedName": "Półmaraton,Warszawski",
+         "results":"http://polmaratonwarszawski.com/wp-content/uploads/sites/3/2015/11/8polmaratonwarszawski_3.pdf"},
+
+         {"id": "MDEB-2013", "shortName":"MDĘB", "date":"2013-04-07", 
+         "distance":42.195,
+         "name":"40. Maraton Dębno", "formattedName":"Dębno",
+         "results":"https://www.maratonypolskie.pl/wyniki/2013/mardeb3op.pdf"},
+
+         {"id": "MOWM-2013", "shortName":"MOWM", "date":"2013-04-21", 
+         "distance":42.195,
+         "name":"Orlen Warsaw Marathon", "formattedName":"Orlen Warsaw,Marathon",
+         "results":"https://www.maratonczyk.pl/wyniki/4927-orlen-warsaw-marathon-warszawa-21042013"},
+
+         {"id": "PHAJ-2013", "shortName":"PHAJ", "date":"2013-05-18", 
+         "distance":21.0975,
+         "name":"XIII Półmaraton Hajnowski", "formattedName":"Półmaraton,Hajnowski",
+         "results":"http://hajnowka2020.hajnowka.pl/hajnowka.pl/images/sport/0080/wyniki.pdf"},
+
+         {"id": "PELK-2013", "shortName":"PEŁK", "date":"2013-08-28", 
+         "distance":21.0975,
+         "name":"VI Ełcki Półmaraton", "formattedName": "Ełcki,Półmaraton",
+         "results":"https://www.maratonczyk.pl/wyniki_2013/polmaraton_elcki_2013_open.pdf"},
+
+         {"id": "MWRO-2013", "shortName":"MWRO", "date":"2013-09-15", 
+         "distance":42.195,
+         "name":"31. Wrocław Maraton", "formattedName": "Wrocław,Maraton",
+         "results":"https://online.datasport.pl/results1005/wyniki/01_OPEN.pdf"},
+
+         {"id": "MPOZ-2013", "shortName":"MPOZ", "date":"2013-10-13", 
+         "distance":42.195,
+         "name":"14. Poznań Maraton", "formattedName": "Poznań,Maraton",
+         "results":"https://marathon.poznan.pl/images/wyniki/14pm_oficjalne_wyniki_biegacze.pdf"},
+
+         {"id": "PWIA-2012", "shortName":"PWIĄ", "date":"2012-02-26", 
+         "distance":21.0975,
+         "name":"XXXII Półmaraton Wiązowski", "formattedName": "Wiązowna",
+         "results":"https://www.maratonczyk.pl/wyniki_2012/wiazowna_2012.pdf"},
+
+         {"id": "PWAW-2012", "shortName":"PWAW", "date":"2012-03-25", 
+         "distance":21.0975,
+         "name":"7. Półmaraton Warszawski", "formattedName": "Półmaraton,Warszawski",
+         "results":"https://polmaratonwarszawski.com/wp-content/uploads/sites/3/2015/11/7pw_open_0.pdf"},
+
+         {"id": "MKRK-2012", "shortName":"MKRK", "date":"2012-04-22", 
+         "distance":42.195,
+         "name":"11. Cracovia Maraton", "formattedName": "Cracovia,Maraton",
+         "results":"https://zis.krakow.pl/cmsd/files/57596"},
+
+         {"id": "MWAW-2012", "shortName":"MWAW", "date":"2012-09-30", 
+         "distance":42.195,
+         "name":"34. Maraton Warszawski", "formattedName": "Maraton,Warszawski",
+         "results":"https://nnmaratonwarszawski.com/wp-content/uploads/2015/11/34maratonwarszawski_oficjalne.pdf"},
+
+         {"id": "PMIK-2012", "shortName":"PMIK", "date":"2012-12-02", 
+         "distance":21.0975,
+         "name":"X Jubileuszowy Półmaraton Świętych Mikołajów", "formattedName": "Półmaraton,Mikołajów",
+         "results":"https://online.datasport.pl/results728/wyniki/01_OPEN.pdf"},
+
+         {"id": "PWAW-2011", "shortName":"PWAW", "date":"2011-03-27", 
+         "distance":21.0975,
+         "name":"6. Półmaraton Warszawski", "formattedName": "Półmaraton,Warszawski",
+         "results":"https://nnmaratonwarszawski.com/wp-content/uploads/2015/11/wyniki_generalka_1.xls"},
+
+         {"id": "MWAW-2011", "shortName":"MWAW", "date":"2011-09-25", 
+         "distance":42.195,
+         "name":"33. Maraton Warszawski", "formattedName": "Maraton,Warszawski",
+         "results":"https://nnmaratonwarszawski.com/wp-content/uploads/2015/11/wyniki_generalka42km.pdf"},
+
+         {"id": "PWAW-2010", "shortName":"PWAW", "date":"2011-03-28", 
+         "distance":21.0975,
+         "name":"5. Półmaraton Warszawski", "formattedName": "Półmaraton,Warszawski",
+         "results":"https://nnmaratonwarszawski.com/wp-content/uploads/2015/11/Generalka.pdf"}
+    ],
+
+    "results":[
+
+        {"runId":"PZYW-2013", "runner":"m", "time":"02:04:41" },
+        {"runId":"PZYW-2013", "runner":"w", "time":"02:04:40" },
+
+        {"runId":"PZYW-2022", "runner":"m", "time":"01:56:48" },
+        {"runId":"PZYW-2022", "runner":"w", "time":"01:58:38" },        
+
+        {"runId":"PWAW-2013", "runner":"m", "time":"01:47:15" },
+        {"runId":"MDEB-2013", "runner":"m", "time":"04:04:26" },
+        {"runId":"MOWM-2013", "runner":"m", "time":"03:54:12" },
+
+        {"runId":"PHAJ-2013", "runner":"m", "time":"02:04:07" },
+        {"runId":"PHAJ-2013", "runner":"w", "time":"02:02:05" },
+
+        {"runId":"PELK-2013", "runner":"m", "time":"02:12:16" },
+        {"runId":"PELK-2013", "runner":"w", "time":"02:20:17" },
+
+        {"runId":"MWRO-2013", "runner":"m", "time":"05:13:15" },
+        {"runId":"MWRO-2013", "runner":"w", "time":"05:13:16" },
+
+        {"runId":"MPOZ-2013", "runner":"m", "time":"03:58:08" },
+        {"runId":"MPOZ-2013", "runner":"w", "time":"04:40:08" },
+
+        {"runId":"PWIA-2012", "runner":"m", "time":"02:04:27" },
+
+        {"runId":"PWAW-2012", "runner":"m", "time":"01:55:07" },
+        {"runId":"PWAW-2012", "runner":"w", "time":"02:18:03" },
+
+        {"runId":"MKRK-2012", "runner":"m", "time":"04:40:44" },
+
+        {"runId":"MWAW-2012", "runner":"m", "time":"04:34:58"},
+
+        {"runId":"PMIK-2012", "runner":"m", "time":"01:57:10"},
+        {"runId":"PMIK-2012", "runner":"w", "time":"02:06:48"},
+
+        {"runId":"PWAW-2011", "runner":"m", "time":"01:55:22"},
+        {"runId":"PWAW-2011", "runner":"w", "time":"01:55:23"},
+
+        {"runId":"MWAW-2011", "runner":"m", "time":"05:36:37"},
+        
+        {"runId":"PWAW-2010", "runner":"m", "time":"02:00:06"},   
+
+        {"runId":"PWAW-2025", "runner":"m", "time":"02:01:07"},       
+        {"runId":"PWAW-2025", "runner":"w", "time":"02:03:29"},   
+
+        {"runId":"SICH-2024", "runner":"m", "time":"02:02:30"},       
+        {"runId":"SICH-2024", "runner":"w", "time":"02:02:30"},   
+        
+        {"runId":"SKYM-2023", "runner":"m", "time":"09:16:26", "checkPoints": ["01:23:22", "05:02:40", "08:31:46"] },
+
+        {"runId":"MARD-2023", "runner":"m", "time":"05:34:35"},
+        {"runId":"MARD-2023", "runner":"w", "time":"05:33:10"},
+
+        {"runId":"MARD-2022", "runner":"m", "time":"05:22:51"},
+        {"runId":"MARD-2022", "runner":"w", "time":"05:11:50"},
+
+        {"runId":"SICH-2023", "runner":"m", "time":"02:00:33"},
+        {"runId":"SICH-2023", "runner":"w", "time":"01:51:35"},
+
+        {"runId":"SICH-2022", "runner":"w", "time":"01:57:27"},
+
+        {"runId":"ZZBJ-2023", "runner":"m", "time":"04:41:49"},
+        {"runId":"ZZBJ-2023", "runner":"w", "time":"04:17:10"},
+
+        {"runId":"GURM-2022", "runner":"m", "time":"03:37:27"},
+        {"runId":"GURM-2022", "runner":"w", "time":"03:51:04"},
+
+        {"runId":"GWZW-2022", "runner":"m", "time":"05:05:54"},
+        {"runId":"GWZW-2022", "runner":"w", "time":"05:07:35"},
+        
+        
+        
+
+        {"runId":"PREH-2014", "runner":"m", "time":"06:44:48", "checkPoints": ["02:11:20", "03:31:35", "05:26:00"] },
+        {"runId":"PREH-2014", "runner":"w", "time":"06:22:24", "checkPoints": ["02:08:09", "03:24:21", "05:11:52"]  },
+
+        {"runId":"PREH-2015", "runner":"m", "time":"05:59:41" },
+        {"runId":"DURB-2015", "runner":"w", "time":"02:42:42" },
+
+        {"runId":"PREH-2021", "runner":"m", "time":"07:27:14", "checkPoints": ["02:29:24", "04:03:56", "06:16:18"] },
+        {"runId":"PREH-2021", "runner":"w", "time":"07:15:11", "checkPoints": ["02:16:35", "03:42:29", "06:01:35"]  },
+
+
+
+
+
+
+
+
+
+        {"runId":"PREH-2025", "runner":"m", "time":"05:51:17" }
+
+    ]
+
+}
